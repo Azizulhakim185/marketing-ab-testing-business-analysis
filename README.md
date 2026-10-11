@@ -61,7 +61,7 @@ The results support further investigation, **not an unconditional increase in ad
 2. Upload or open `marketing_ab_testing.ipynb` in Kaggle.
 3. Run all cells in order. The notebook reads `marketing_AB.csv` from the attached dataset and saves the charts and exported summaries in `/kaggle/working/`.
 
-**Live Kaggle notebook:** Add your public Kaggle notebook URL here after publishing it.
+**Live Kaggle Notebook:** [View Complete A/B Testing Analysis](https://www.kaggle.com/code/aziz185/marketing-a-b-testing-conversion-statistical-a)).
 
 ---
 *Independent educational case study using public data. Not a commissioned project for the dataset provider or any employer.*
